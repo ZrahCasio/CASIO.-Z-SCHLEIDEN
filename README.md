@@ -1,1 +1,0 @@
-# CASIO.-Z-SCHLEIDEN
