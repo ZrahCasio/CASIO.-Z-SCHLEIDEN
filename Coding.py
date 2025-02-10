@@ -1,10 +1,11 @@
 
-
+#set up screen
 from turtle import*
 bgcolor('black')
 speed(0)
 pensize(2)
 
+#body of the snake
 for i in range(500):
     color('purple')
     up()
